@@ -27,7 +27,7 @@ h2
 form
 {
     background-color: #FFF;
-    width: 65%;
+    width: 55%;
     height: 550px;
     border: 0.5px #FFF solid;
     margin-left: 190px;
@@ -43,19 +43,22 @@ form
 input
 {
     padding: 15px;
-    width: 180px;
+    width: 334px;
     margin-top: 20px;
+    border-radius:5px;
+    border: 1px solid #bbb;
 }
 .bouton
 {
-    width: 180px;
+    width: 370px;
     background-color: #8551C8;
     padding: 15px;
-    margin-left: 150px;
+    margin-left: 37px;
     margin-bottom: 70px;
     border: none;
     border-radius: 5px;
 }
+
 .connexion
 {
     color: #FFF;
